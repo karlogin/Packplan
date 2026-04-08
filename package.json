@@ -1,0 +1,1 @@
+{"name":"packplan","version":"1.0.0","description":"Personal travel packing planner with AI suggestions","main":"server.js","scripts":{"start":"node server.js","dev":"nodemon server.js"},"keywords":["packing","travel","planner"],"author":"","license":"MIT","dependencies":{"express":"^4.18.2"},"devDependencies":{"nodemon":"^3.0.1"}}
